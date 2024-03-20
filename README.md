@@ -13,10 +13,10 @@ privacy threat.
 - Real Android device (minimum version 13, r16)
 - For installing Android Studio,
 we recommend a system with 16GB of memory and a
-solid-state drive of at least 16GB. 
+solid-state drive of at least 16GB
 ### System Requirements
 - Linux OS/macOS/Windows, preferably Ubuntu 22.04
-LTS, macOS 14 (Apple M1/M2 chips are compatible; compatibility with Windows is untested.)
+LTS, macOS 14 (Apple M1/M2 chips are compatible; compatibility with Windows is untested)
 ### Software Dependencies
 - Android Studio, preferably latest version v2023.2.1, with Gradle version 7.2
 - Android emulator/real Android devices, preferably Pixel or other devices with Android version ≥ 13, r16
@@ -56,26 +56,26 @@ python3 -c "import numpy; print(numpy.version.version)"; python3 -c "import scip
 ### Build and Run paperImplementation Project
 To test scenrio One with single client app and single sdk
 Requirements: Android Studio, Android Device.
-1. Open the paperImplementation project in to Android Studio: "File" -> "Open..." - select the paperImplementation -> Click "OK".
-2. Install the sdk_app: select "sdk_app" from the build profile drop down menu ->Click the "green play button".
-3. Install the client_app: select "client_app" from the build profile drop down menu ->Click the "green play button".
+1. Open the paperImplementation project in to Android Studio: "File" -> "Open..." -> select the paperImplementation -> Click "OK".
+2. Install the sdk_app: select "sdk_app" from the build profile drop down menu -> Click the "green play button".
+3. Install the client_app: select "client_app" from the build profile drop down menu -> Click the "green play button".
 4. Following steps should be on the android device you choosed to install the two apps.
 5. Open the client_app by finding an app named : "Demo" with default  app icon.
-6. Click "FB PROFILE": Will get to Figure 3 , which is scenrio 1. 
+6. Click "FB PROFILE": Will get to Figure 3 , which is scenrio 1 in the paper. 
 
 Note that building an Android project in Android Studio for the first time may take longer.
 
 ### Build and Run facebook-android-sdk-main Project
 1. Open the facebook-android-sdk-main project in to Android Studio: "File" -> "Open..." - select the facebook-android-sdk-main -> Click "OK".
-2. Open settings in Android Studio, select Build, Execution, Deployment -> Build Tools -> Gradle, select Gradle JDK -> Download JDK -> select version 1.8 (the last one) -> click "Download" -> click "Apply" and "OK". This process may take a while.
-3. Install the sample apps: select "sample.FBLoginSample" or other samples from the build profile drop down menu ->Click the "green play button". After building the original Facebook SDK and the sample app, on the Android emulator or the real device, you can use basic functions like login or display user profile.
+2. Change JDK version: Open settings in Android Studio, select Build, Execution, Deployment -> Build Tools -> Gradle, select Gradle JDK -> Download JDK -> select version 1.8 (the last one) -> click "Download" -> click "Apply" and "OK". This process may take a while.
+3. Install the sample apps: select "sample.FBLoginSample" or other samples from the build profile drop down menu -> Click the "green play button". After building the original Facebook SDK and the sample app, on the Android emulator or the real device, you can use basic functions like login or display user profile.
 
 Note that building an Android project in Android Studio for the first time may take longer.
 
 
 To generate data in Table 2
  In evaluation table data/table2: 
- 
+
     python3 gen_table2_fblogin.py
     python3 gen_table2_fbprofile.py
     python3 gen_table2_twitter.py
