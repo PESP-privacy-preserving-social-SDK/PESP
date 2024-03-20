@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:fresco="http://schemas.android.com/tools"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="500px"
+android:layout_height="800px"
+android:orientation="vertical"
+tools:context=".fb.FacebookProfileActivity">
+
+
+<!--    <Button-->
+<!--        android:id="@+id/fb_profile_test_btn"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="test" />-->
+
+    <SurfaceView
+    android:id="@+id/fbsdk_view_placeholder"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />
+
+</LinearLayout>
