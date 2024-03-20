@@ -23,7 +23,7 @@ LTS, macOS 14 (Apple M1/M2 chips are compatible; compatibility with Windows is u
 - python 3.11
 - numpy ≥ v1.24.3
 - scipy ≥ v1.11.1
-## Environment setup
+## Environment Setup
 Android Studio installation: download the latest version from https://developer.android.com/studio and refer to the provided documentation for guidance on installation across different operating systems https://developer.android.com/studio/install. Opt for the standard installation process, and follow the on-screen instructions to
 download all required components.
 
@@ -68,7 +68,7 @@ Note that building an Android project in Android Studio for the first time may t
 
 Note that building an Android project in Android Studio for the first time may take longer.
 
-### Run evaluation scripts
+### Run Ealuation Scripts
 
 To generate data in Table 2
  In evaluation table data/table2: 
@@ -86,5 +86,5 @@ To generate data in Table 3
     python3 basline_fbtwlogin_gen.py
     python3 basline_fbtwlogin_gen.py
 
-## Other materials
+## Other Materials
 Dataset for Type I and Type II workflows of social SDK usage in 200 mobile apps: https://docs.google.com/spreadsheets/d/1bV0y3nN93ckKuIW_P_g5bO-LCesOnBB_/edit#gid=552520127
