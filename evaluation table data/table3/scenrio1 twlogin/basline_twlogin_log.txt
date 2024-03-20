@@ -1,0 +1,180 @@
+2023-09-24 19:39:04.338 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation start
+2023-09-24 19:39:04.941 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network response time:331
+2023-09-24 19:39:04.979 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network end
+2023-09-24 19:39:04.980 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation end
+2023-09-24 19:47:33.603 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation start
+2023-09-24 19:47:33.950 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network response time:212
+2023-09-24 19:47:33.977 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network end
+2023-09-24 19:47:33.977 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation end
+2023-09-24 19:47:35.789 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation start
+2023-09-24 19:47:36.250 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network response time:331
+2023-09-24 19:47:36.288 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network end
+2023-09-24 19:47:36.289 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation end
+2023-09-24 19:47:37.767 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation start
+2023-09-24 19:47:38.144 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network response time:282
+2023-09-24 19:47:38.182 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network end
+2023-09-24 19:47:38.183 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation end
+2023-09-24 19:47:39.345 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation start
+2023-09-24 19:47:39.867 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network response time:350
+2023-09-24 19:47:39.898 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network end
+2023-09-24 19:47:39.899 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation end
+2023-09-24 19:47:41.305 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation start
+2023-09-24 19:47:41.698 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network response time:292
+2023-09-24 19:47:41.740 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network end
+2023-09-24 19:47:41.740 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation end
+2023-09-24 19:47:43.065 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation start
+2023-09-24 19:47:43.569 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network response time:345
+2023-09-24 19:47:43.596 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network end
+2023-09-24 19:47:43.596 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation end
+2023-09-24 19:47:44.917 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation start
+2023-09-24 19:47:45.435 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network response time:355
+2023-09-24 19:47:45.464 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network end
+2023-09-24 19:47:45.465 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation end
+2023-09-24 19:47:46.799 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation start
+2023-09-24 19:47:47.324 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network response time:360
+2023-09-24 19:47:47.352 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network end
+2023-09-24 19:47:47.352 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation end
+2023-09-24 19:47:48.698 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation start
+2023-09-24 19:47:49.046 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network response time:196
+2023-09-24 19:47:49.072 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network end
+2023-09-24 19:47:49.072 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation end
+2023-09-24 19:47:50.433 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation start
+2023-09-24 19:47:50.779 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network response time:214
+2023-09-24 19:47:50.815 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network end
+2023-09-24 19:47:50.816 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation end
+2023-09-24 19:47:52.217 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation start
+2023-09-24 19:47:52.590 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network response time:213
+2023-09-24 19:47:52.631 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network end
+2023-09-24 19:47:52.632 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation end
+2023-09-24 19:47:54.366 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation start
+2023-09-24 19:47:54.617 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network response time:152
+2023-09-24 19:47:54.644 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network end
+2023-09-24 19:47:54.644 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation end
+2023-09-24 19:47:57.453 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation start
+2023-09-24 19:47:57.640 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network response time:78
+2023-09-24 19:47:57.667 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network end
+2023-09-24 19:47:57.667 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation end
+2023-09-24 19:48:00.845 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation start
+2023-09-24 19:48:01.240 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network response time:291
+2023-09-24 19:48:01.275 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network end
+2023-09-24 19:48:01.275 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation end
+2023-09-24 19:48:02.875 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation start
+2023-09-24 19:48:03.262 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network response time:287
+2023-09-24 19:48:03.299 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network end
+2023-09-24 19:48:03.300 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation end
+2023-09-24 19:48:04.830 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation start
+2023-09-24 19:48:05.352 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network response time:356
+2023-09-24 19:48:05.377 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network end
+2023-09-24 19:48:05.377 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation end
+2023-09-24 19:48:06.774 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation start
+2023-09-24 19:48:07.314 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network response time:367
+2023-09-24 19:48:07.337 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network end
+2023-09-24 19:48:07.338 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation end
+2023-09-24 19:48:08.821 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation start
+2023-09-24 19:48:09.206 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network response time:287
+2023-09-24 19:48:09.247 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network end
+2023-09-24 19:48:09.248 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation end
+2023-09-24 19:48:10.722 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation start
+2023-09-24 19:48:11.241 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network response time:352
+2023-09-24 19:48:11.266 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network end
+2023-09-24 19:48:11.267 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation end
+2023-09-24 19:48:13.081 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation start
+2023-09-24 19:48:13.402 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network response time:184
+2023-09-24 19:48:13.440 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network end
+2023-09-24 19:48:13.441 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation end
+2023-09-24 19:48:15.013 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation start
+2023-09-24 19:48:15.330 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network response time:211
+2023-09-24 19:48:15.363 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network end
+2023-09-24 19:48:15.363 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation end
+2023-09-24 19:48:16.963 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation start
+2023-09-24 19:48:17.501 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network response time:354
+2023-09-24 19:48:17.529 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network end
+2023-09-24 19:48:17.530 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation end
+2023-09-24 19:48:18.914 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation start
+2023-09-24 19:48:19.407 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network response time:345
+2023-09-24 19:48:19.461 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network end
+2023-09-24 19:48:19.462 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation end
+2023-09-24 19:48:20.869 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation start
+2023-09-24 19:48:21.255 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network response time:295
+2023-09-24 19:48:21.292 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network end
+2023-09-24 19:48:21.293 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation end
+2023-09-24 19:48:22.671 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation start
+2023-09-24 19:48:23.050 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network response time:288
+2023-09-24 19:48:23.081 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network end
+2023-09-24 19:48:23.082 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation end
+2023-09-24 19:48:24.523 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation start
+2023-09-24 19:48:24.903 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network response time:289
+2023-09-24 19:48:24.939 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network end
+2023-09-24 19:48:24.940 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation end
+2023-09-24 19:48:26.406 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation start
+2023-09-24 19:48:26.796 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network response time:226
+2023-09-24 19:48:26.831 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network end
+2023-09-24 19:48:26.831 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation end
+2023-09-24 19:48:28.266 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation start
+2023-09-24 19:48:28.536 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network response time:113
+2023-09-24 19:48:28.560 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network end
+2023-09-24 19:48:28.561 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation end
+2023-09-24 19:48:30.686 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation start
+2023-09-24 19:48:30.937 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network response time:153
+2023-09-24 19:48:30.960 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network end
+2023-09-24 19:48:30.961 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation end
+2023-09-24 19:48:32.874 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation start
+2023-09-24 19:48:33.311 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network response time:319
+2023-09-24 19:48:33.339 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network end
+2023-09-24 19:48:33.339 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation end
+2023-09-24 19:48:35.101 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation start
+2023-09-24 19:48:35.362 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network response time:115
+2023-09-24 19:48:35.389 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network end
+2023-09-24 19:48:35.390 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation end
+2023-09-24 19:48:37.197 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation start
+2023-09-24 19:48:37.685 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network response time:344
+2023-09-24 19:48:37.744 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network end
+2023-09-24 19:48:37.745 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation end
+2023-09-24 19:48:39.183 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation start
+2023-09-24 19:48:39.563 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network response time:288
+2023-09-24 19:48:39.604 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network end
+2023-09-24 19:48:39.605 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation end
+2023-09-24 19:49:26.258 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation start
+2023-09-24 19:49:26.653 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network response time:288
+2023-09-24 19:49:26.689 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network end
+2023-09-24 19:49:26.689 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation end
+2023-09-24 19:49:28.347 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation start
+2023-09-24 19:49:28.829 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network response time:335
+2023-09-24 19:49:28.859 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network end
+2023-09-24 19:49:28.859 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation end
+2023-09-24 19:49:31.225 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation start
+2023-09-24 19:49:31.733 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network response time:350
+2023-09-24 19:49:31.769 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network end
+2023-09-24 19:49:31.769 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation end
+2023-09-24 19:49:33.438 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation start
+2023-09-24 19:49:33.950 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network response time:358
+2023-09-24 19:49:33.971 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network end
+2023-09-24 19:49:33.972 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation end
+2023-09-24 19:49:36.758 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation start
+2023-09-24 19:49:37.248 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network response time:348
+2023-09-24 19:49:37.279 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network end
+2023-09-24 19:49:37.280 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation end
+2023-09-24 19:49:39.034 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation start
+2023-09-24 19:49:39.497 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network response time:326
+2023-09-24 19:49:39.530 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network end
+2023-09-24 19:49:39.530 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation end
+2023-09-24 19:49:41.473 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation start
+2023-09-24 19:49:41.781 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network response time:216
+2023-09-24 19:49:41.812 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network end
+2023-09-24 19:49:41.812 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation end
+2023-09-24 19:49:43.564 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation start
+2023-09-24 19:49:44.072 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network response time:353
+2023-09-24 19:49:44.102 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network end
+2023-09-24 19:49:44.102 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation end
+2023-09-24 19:49:46.898 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation start
+2023-09-24 19:49:47.376 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network response time:334
+2023-09-24 19:49:47.421 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network end
+2023-09-24 19:49:47.421 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation end
+2023-09-24 19:49:48.998 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation start
+2023-09-24 19:49:49.519 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network response time:357
+2023-09-24 19:49:49.551 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation network end
+2023-09-24 19:49:49.552 10034-10034/com.facebook.fbloginsample.second E/evaluation: twlogin_evaluation end
+2023-09-24 19:49:51.018 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation start
+2023-09-24 19:49:51.499 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network response time:339
+2023-09-24 19:49:51.529 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation network end
+2023-09-24 19:49:51.529 9847-9847/com.facebook.fbloginsample.first E/evaluation: twlogin_evaluation end

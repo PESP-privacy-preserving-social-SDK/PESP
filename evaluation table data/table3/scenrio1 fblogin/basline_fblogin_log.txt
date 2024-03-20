@@ -1,0 +1,184 @@
+2023-09-24 16:37:25.528 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin start
+2023-09-24 16:37:25.574 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:37:27.338 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:37:27.366 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin end
+2023-09-24 16:37:55.950 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin start
+2023-09-24 16:37:55.985 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:37:58.801 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:37:58.832 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin end
+2023-09-24 16:38:04.805 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin start
+2023-09-24 16:38:04.850 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:38:10.376 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:38:10.404 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin end
+2023-09-24 16:39:05.891 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin start
+2023-09-24 16:39:05.928 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:39:10.366 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:39:10.400 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin end
+2023-09-24 16:39:17.450 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin start
+2023-09-24 16:39:17.484 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:39:22.159 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:39:22.188 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin end
+2023-09-24 16:39:26.619 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin start
+2023-09-24 16:39:26.648 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:39:29.624 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:39:29.657 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin end
+2023-09-24 16:39:33.892 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin start
+2023-09-24 16:39:33.933 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:39:38.743 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:39:38.777 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin end
+2023-09-24 16:39:48.557 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin start
+2023-09-24 16:39:48.593 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:39:53.783 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:39:53.818 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin end
+2023-09-24 16:39:58.473 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin start
+2023-09-24 16:39:58.516 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:40:01.926 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:40:01.964 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin end
+2023-09-24 16:40:23.994 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin start
+2023-09-24 16:40:24.026 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:40:29.299 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:40:29.326 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin end
+2023-09-24 16:40:33.288 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin start
+2023-09-24 16:40:33.325 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:40:38.229 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:40:38.259 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin end
+2023-09-24 16:40:44.353 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin start
+2023-09-24 16:40:44.390 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:40:47.768 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:40:47.805 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin end
+2023-09-24 16:40:54.319 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin start
+2023-09-24 16:40:54.357 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:41:01.173 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:41:01.201 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin end
+2023-09-24 16:41:05.223 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin start
+2023-09-24 16:41:05.259 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:41:08.724 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:41:08.750 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin end
+2023-09-24 16:41:12.404 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin start
+2023-09-24 16:41:12.438 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:41:17.150 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:41:17.174 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin end
+2023-09-24 16:41:36.419 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin start
+2023-09-24 16:41:36.447 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:41:42.128 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:41:42.159 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin end
+2023-09-24 16:41:48.504 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin start
+2023-09-24 16:41:48.547 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:41:51.865 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:41:51.900 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin end
+2023-09-24 16:41:56.347 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin start
+2023-09-24 16:41:56.378 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:42:00.066 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:42:00.094 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin end
+2023-09-24 16:42:03.933 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin start
+2023-09-24 16:42:03.970 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:42:09.019 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:42:09.054 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin end
+2023-09-24 16:42:14.234 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin start
+2023-09-24 16:42:14.272 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:42:18.627 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:42:18.657 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin end
+2023-09-24 16:42:22.232 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin start
+2023-09-24 16:42:22.265 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:42:25.536 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:42:25.567 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin end
+2023-09-24 16:42:29.974 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin start
+2023-09-24 16:42:30.006 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:42:35.177 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:42:35.218 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin end
+2023-09-24 16:43:20.456 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin start
+2023-09-24 16:43:20.488 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:43:22.469 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:43:22.500 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin end
+2023-09-24 16:43:27.072 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin start
+2023-09-24 16:43:27.103 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:43:29.084 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:43:29.117 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin end
+2023-09-24 16:43:31.768 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin start
+2023-09-24 16:43:31.807 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:43:33.863 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:43:33.894 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin end
+2023-09-24 16:43:37.007 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin start
+2023-09-24 16:43:37.041 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:43:38.840 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:43:38.869 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin end
+2023-09-24 16:43:41.988 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin start
+2023-09-24 16:43:42.018 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:43:43.869 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:43:43.898 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin end
+2023-09-24 16:43:46.999 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin start
+2023-09-24 16:43:47.030 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:43:48.736 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:43:48.770 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin end
+2023-09-24 16:43:53.540 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin start
+2023-09-24 16:43:53.573 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:43:56.063 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:43:56.093 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin end
+2023-09-24 16:43:59.515 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin start
+2023-09-24 16:43:59.547 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:44:02.322 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:44:02.354 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin end
+2023-09-24 16:44:05.690 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin start
+2023-09-24 16:44:05.721 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:44:07.977 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:44:08.013 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin end
+2023-09-24 16:44:12.669 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin start
+2023-09-24 16:44:12.703 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:44:14.548 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:44:14.577 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin end
+2023-09-24 16:44:28.997 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin start
+2023-09-24 16:44:29.036 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:44:30.834 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:44:30.870 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin end
+2023-09-24 16:44:34.537 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin start
+2023-09-24 16:44:34.569 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:44:36.426 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:44:36.456 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin end
+2023-09-24 16:54:54.275 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin start
+2023-09-24 16:54:54.309 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:54:56.979 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:54:57.005 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin end
+2023-09-24 16:55:02.742 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin start
+2023-09-24 16:55:02.778 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions start
+2023-09-24 16:55:19.843 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions end
+2023-09-24 16:55:19.874 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin end
+2023-09-24 17:33:42.089 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin start
+2023-09-24 17:33:42.123 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions start
+2023-09-24 17:33:48.667 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions end
+2023-09-24 17:33:48.699 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin end
+2023-09-24 17:33:54.771 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin start
+2023-09-24 17:33:54.803 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions start
+2023-09-24 17:33:57.631 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions end
+2023-09-24 17:33:57.669 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin end
+2023-09-24 17:34:02.059 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin start
+2023-09-24 17:34:02.093 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions start
+2023-09-24 17:34:03.779 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions end
+2023-09-24 17:34:03.816 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin end
+2023-09-24 17:34:07.251 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin start
+2023-09-24 17:34:07.290 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions start
+2023-09-24 17:34:09.686 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions end
+2023-09-24 17:34:09.715 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin end
+2023-09-24 17:34:14.129 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin start
+2023-09-24 17:34:14.167 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions start
+2023-09-24 17:34:16.042 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions end
+2023-09-24 17:34:16.067 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin end
+2023-09-24 17:34:19.531 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin start
+2023-09-24 17:34:19.570 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions start
+2023-09-24 17:34:21.451 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions end
+2023-09-24 17:34:21.482 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin end
+2023-09-24 17:34:24.151 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin start
+2023-09-24 17:34:24.189 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions start
+2023-09-24 17:34:25.679 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions end
+2023-09-24 17:34:25.707 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin end
+2023-09-24 17:34:29.060 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin start
+2023-09-24 17:34:29.093 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions start
+2023-09-24 17:34:30.852 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions end
+2023-09-24 17:34:30.886 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin end
+2023-09-24 17:34:33.940 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin start
+2023-09-24 17:34:33.975 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions start
+2023-09-24 17:34:35.655 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin brwoser substractions end
+2023-09-24 17:34:35.683 29574-29574/com.facebook.fbloginsample.first E/evaluation: fblogin end
+2023-09-24 17:34:39.234 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin start
+2023-09-24 17:34:39.267 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions start
+2023-09-24 17:34:41.344 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin brwoser substractions end
+2023-09-24 17:34:41.380 29953-29953/com.facebook.fbloginsample.second E/evaluation: fblogin end
