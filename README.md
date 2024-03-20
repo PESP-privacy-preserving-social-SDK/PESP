@@ -72,6 +72,7 @@ Note that building an Android project in Android Studio for the first time may t
 
 Note that building an Android project in Android Studio for the first time may take longer.
 
+### Run evaluation scripts
 
 To generate data in Table 2
  In evaluation table data/table2: 
