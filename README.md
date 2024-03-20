@@ -24,11 +24,7 @@ LTS, macOS 14 (Apple M1/M2 chips are compatible; compatibility with Windows is u
 - numpy ≥ v1.24.3
 - scipy ≥ v1.11.1
 ## Environment setup
-Android Studio installation: download the latest version from https://developer.android.com/studio and refer to the pro-
-vided documentation for guidance on installation across differ-
-ent operating systems https://developer.android.com/
-studio/install. Opt for the standard in-
-stallation process, and follow the on-screen instructions to
+Android Studio installation: download the latest version from https://developer.android.com/studio and refer to the provided documentation for guidance on installation across different operating systems https://developer.android.com/studio/install. Opt for the standard installation process, and follow the on-screen instructions to
 download all required components.
 
 If you don't have a real Android device, you can use the Android emulator in Android Studio, which will be automatically downloaded.
