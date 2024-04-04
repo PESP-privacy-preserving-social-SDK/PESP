@@ -14,7 +14,7 @@ def getTimeList(fname):
         for line in fp.readlines():
             temp.append(line)
             count += 1
-            if count % 2 == 0:
+            if count % 4 == 0:
                 logs.append(temp)
                 temp = list()
 
@@ -24,22 +24,30 @@ def getTimeList(fname):
         dateTime = parser.parse(ret)
         return dateTime
 
+    time_data = list()
+
     first_l = []
     second_l = []
+    for four_line in logs:
+        four_time = [getTime(l) for l in four_line]
+        network_time = int(four_line[1].split("response time:")[1])
+        # print("network time: ", network_time)
 
-    for two_line in logs:
-        two_time = [getTime(l) for l in two_line]
 
-        delta1 = two_time[1] - two_time[0]
+        delta1 = four_time[3] - four_time[0]
+
+   
+        delta2 = delta1.microseconds / 1000 - network_time
+
 
 
         
-        if all(["first" in pkgname for pkgname in two_line]):
-            first_l.append(delta1.microseconds / 1000)
-        elif all(["second" in pkgname for pkgname in two_line]):
-            second_l.append(delta1.microseconds / 1000)
+        if all(["first" in pkgname for pkgname in four_line]):
+            first_l.append(delta2)
+        elif all(["second" in pkgname for pkgname in four_line]):
+            second_l.append(delta2)
         else:
-            print("ERROR in log input, pgkname in a group of 2 please")
+            print("ERROR in log input, pgkname in a group of 4 please")
     
     return first_l, second_l
 
@@ -69,12 +77,14 @@ def getPESPTimeList(fname):
 
     first_l = []
     second_l = []
+
     for two_line in logs:
         two_time = [getTime(l) for l in two_line]
         two_pkgname = [getPkgname(l) for l in two_line]
 
         delta1 = two_time[1] - two_time[0]
- 
+
+
         
         if all(["first" in pkgname for pkgname in two_pkgname]):
             first_l.append(delta1.microseconds / 1000)
@@ -86,8 +96,8 @@ def getPESPTimeList(fname):
     return first_l, second_l
 
 
-basline_first_l, basline_second_l = getTimeList("basline_fbprofile_log.txt")
-pesp_first_l, pesp_second_l = getPESPTimeList("pesp_fbprofile_log.txt")
+baseline_first_l, baseline_second_l = getTimeList("baseline_twlogin_log.txt")
+pesp_first_l, pesp_second_l = getPESPTimeList("pesp_twlogin_log.txt")
 
 def computeInterval(input_list):
     avg = np.mean(input_list)
@@ -95,7 +105,8 @@ def computeInterval(input_list):
     print(avg, hi - avg, lo, hi)
 
 
-computeInterval(basline_first_l)
-computeInterval(basline_second_l)
-computeInterval([a + b for (a, b) in zip(basline_first_l, pesp_first_l)])
-computeInterval([a + b for (a, b) in zip(basline_second_l, pesp_second_l)])
+computeInterval(baseline_first_l)
+computeInterval(baseline_second_l)
+
+computeInterval([a + b for (a, b) in zip(baseline_first_l, pesp_first_l)])
+computeInterval([a + b for (a, b) in zip(baseline_second_l, pesp_second_l)])

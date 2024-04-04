@@ -95,7 +95,7 @@ def getPESPTimeList(fname):
     return first_l, second_l
 
 
-basline_first_l, basline_second_l = getTimeList("basline_fbtwlogin_log.txt")
+baseline_first_l, baseline_second_l = getTimeList("baseline_fbtwlogin_log.txt")
 pesp_first_l, pesp_second_l = getPESPTimeList("pesp_fbtwlogin_log.txt")
 
 def computeInterval(input_list):
@@ -105,7 +105,7 @@ def computeInterval(input_list):
     print(avg, hi - avg, lo, hi)
 
 
-computeInterval(basline_first_l)
-computeInterval(basline_second_l)
-computeInterval([a + b for (a, b) in zip(basline_first_l, pesp_first_l)])
-computeInterval([a + b for (a, b) in zip(basline_second_l, pesp_second_l)])
+computeInterval(baseline_first_l)
+computeInterval(baseline_second_l)
+computeInterval([a + b for (a, b) in zip(baseline_first_l, pesp_first_l)])
+computeInterval([a + b for (a, b) in zip(baseline_second_l, pesp_second_l)])
