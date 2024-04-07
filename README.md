@@ -86,6 +86,3 @@ To generate data in Table 3
     python3 baseline_twlogin_gen.py
     python3 baseline_fbtwlogin_gen.py
     python3 baseline_fbtwlogin_gen.py
-
-## Other Materials
-Dataset for Type I and Type II workflows of social SDK usage in 200 mobile apps: https://docs.google.com/spreadsheets/d/1bV0y3nN93ckKuIW_P_g5bO-LCesOnBB_/edit#gid=552520127
