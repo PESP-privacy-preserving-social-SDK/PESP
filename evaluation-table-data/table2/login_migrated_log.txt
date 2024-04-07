@@ -1,0 +1,80 @@
+2022-10-11 20:43:27.286 15466-15466/com.demo.fbsdk.client E/performanceOverhead: start login test
+2022-10-11 20:43:27.434 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions start login test
+2022-10-11 20:43:29.796 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions end login test
+2022-10-11 20:43:29.824 15466-15466/com.demo.fbsdk.client E/performanceOverhead: end login test
+2022-10-11 20:43:36.219 15466-15466/com.demo.fbsdk.client E/performanceOverhead: start login test
+2022-10-11 20:43:36.335 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions start login test
+2022-10-11 20:43:38.446 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions end login test
+2022-10-11 20:43:38.479 15466-15466/com.demo.fbsdk.client E/performanceOverhead: end login test
+2022-10-11 20:43:48.765 15466-15466/com.demo.fbsdk.client E/performanceOverhead: start login test
+2022-10-11 20:43:48.871 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions start login test
+2022-10-11 20:43:51.010 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions end login test
+2022-10-11 20:43:51.036 15466-15466/com.demo.fbsdk.client E/performanceOverhead: end login test
+2022-10-11 20:43:56.707 15466-15466/com.demo.fbsdk.client E/performanceOverhead: start login test
+2022-10-11 20:43:56.814 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions start login test
+2022-10-11 20:43:59.529 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions end login test
+2022-10-11 20:43:59.557 15466-15466/com.demo.fbsdk.client E/performanceOverhead: end login test
+2022-10-11 20:44:04.027 15466-15466/com.demo.fbsdk.client E/performanceOverhead: start login test
+2022-10-11 20:44:04.150 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions start login test
+2022-10-11 20:44:06.600 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions end login test
+2022-10-11 20:44:06.627 15466-15466/com.demo.fbsdk.client E/performanceOverhead: end login test
+2022-10-11 20:44:11.017 15466-15466/com.demo.fbsdk.client E/performanceOverhead: start login test
+2022-10-11 20:44:11.124 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions start login test
+2022-10-11 20:44:13.320 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions end login test
+2022-10-11 20:44:13.349 15466-15466/com.demo.fbsdk.client E/performanceOverhead: end login test
+2022-10-11 20:44:17.768 15466-15466/com.demo.fbsdk.client E/performanceOverhead: start login test
+2022-10-11 20:44:17.875 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions start login test
+2022-10-11 20:44:19.839 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions end login test
+2022-10-11 20:44:19.869 15466-15466/com.demo.fbsdk.client E/performanceOverhead: end login test
+2022-10-11 20:44:24.547 15466-15466/com.demo.fbsdk.client E/performanceOverhead: start login test
+2022-10-11 20:44:24.657 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions start login test
+2022-10-11 20:44:27.611 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions end login test
+2022-10-11 20:44:27.639 15466-15466/com.demo.fbsdk.client E/performanceOverhead: end login test
+2022-10-11 20:44:38.055 15466-15466/com.demo.fbsdk.client E/performanceOverhead: start login test
+2022-10-11 20:44:38.162 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions start login test
+2022-10-11 20:44:40.269 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions end login test
+2022-10-11 20:44:40.298 15466-15466/com.demo.fbsdk.client E/performanceOverhead: end login test
+2022-10-11 20:44:44.476 15466-15466/com.demo.fbsdk.client E/performanceOverhead: start login test
+2022-10-11 20:44:44.570 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions start login test
+2022-10-11 20:44:47.040 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions end login test
+2022-10-11 20:44:47.067 15466-15466/com.demo.fbsdk.client E/performanceOverhead: end login test
+2022-10-11 20:45:21.677 15466-15466/com.demo.fbsdk.client E/performanceOverhead: start login test
+2022-10-11 20:45:21.787 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions start login test
+2022-10-11 20:45:24.940 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions end login test
+2022-10-11 20:45:24.971 15466-15466/com.demo.fbsdk.client E/performanceOverhead: end login test
+2022-10-11 20:45:30.422 15466-15466/com.demo.fbsdk.client E/performanceOverhead: start login test
+2022-10-11 20:45:30.551 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions start login test
+2022-10-11 20:45:32.654 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions end login test
+2022-10-11 20:45:32.683 15466-15466/com.demo.fbsdk.client E/performanceOverhead: end login test
+2022-10-11 20:45:37.264 15466-15466/com.demo.fbsdk.client E/performanceOverhead: start login test
+2022-10-11 20:45:37.395 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions start login test
+2022-10-11 20:45:39.779 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions end login test
+2022-10-11 20:45:39.808 15466-15466/com.demo.fbsdk.client E/performanceOverhead: end login test
+2022-10-11 20:45:44.845 15466-15466/com.demo.fbsdk.client E/performanceOverhead: start login test
+2022-10-11 20:45:44.981 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions start login test
+2022-10-11 20:45:47.455 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions end login test
+2022-10-11 20:45:47.485 15466-15466/com.demo.fbsdk.client E/performanceOverhead: end login test
+2022-10-11 20:45:55.067 15466-15466/com.demo.fbsdk.client E/performanceOverhead: start login test
+2022-10-11 20:45:55.176 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions start login test
+2022-10-11 20:45:57.402 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions end login test
+2022-10-11 20:45:57.433 15466-15466/com.demo.fbsdk.client E/performanceOverhead: end login test
+2022-10-11 20:46:02.103 15466-15466/com.demo.fbsdk.client E/performanceOverhead: start login test
+2022-10-11 20:46:02.229 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions start login test
+2022-10-11 20:46:04.265 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions end login test
+2022-10-11 20:46:04.310 15466-15466/com.demo.fbsdk.client E/performanceOverhead: end login test
+2022-10-11 20:46:11.900 15466-15466/com.demo.fbsdk.client E/performanceOverhead: start login test
+2022-10-11 20:46:12.013 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions start login test
+2022-10-11 20:46:14.359 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions end login test
+2022-10-11 20:46:14.383 15466-15466/com.demo.fbsdk.client E/performanceOverhead: end login test
+2022-10-11 20:46:18.882 15466-15466/com.demo.fbsdk.client E/performanceOverhead: start login test
+2022-10-11 20:46:18.996 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions start login test
+2022-10-11 20:46:21.307 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions end login test
+2022-10-11 20:46:21.341 15466-15466/com.demo.fbsdk.client E/performanceOverhead: end login test
+2022-10-11 20:46:25.488 15466-15466/com.demo.fbsdk.client E/performanceOverhead: start login test
+2022-10-11 20:46:25.596 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions start login test
+2022-10-11 20:46:27.498 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions end login test
+2022-10-11 20:46:27.528 15466-15466/com.demo.fbsdk.client E/performanceOverhead: end login test
+2022-10-11 20:46:32.090 15466-15466/com.demo.fbsdk.client E/performanceOverhead: start login test
+2022-10-11 20:46:32.196 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions start login test
+2022-10-11 20:46:34.192 15487-15487/com.demo.fbsdk.provider.app E/performanceOverhead: brwoser substractions end login test
+2022-10-11 20:46:34.227 15466-15466/com.demo.fbsdk.client E/performanceOverhead: end login test
