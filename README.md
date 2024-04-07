@@ -18,7 +18,8 @@ solid-state drive of at least 16GB
 - Linux OS/macOS/Windows, preferably Ubuntu 22.04
 LTS, macOS 14 (Apple M1/M2 chips are compatible; compatibility with Windows is untested)
 ### Software Dependencies
-- Android Studio, preferably the latest version v2023.2.1, with Gradle version 7.2
+- Android Studio, preferably the latest version v2023.2.1, with Gradle version 7.2 for paperImplementation, and with minimum Gradle version 6.7.1
+and JDK version 1.8 for facebook-android-sdk-main
 - Android emulator/real Android devices, preferably Pixel or other devices with Android version ≥ 13, r16
 - python 3.11
 - numpy ≥ v1.24.3
@@ -52,7 +53,7 @@ python3 -c "import numpy; print(numpy.version.version)"; python3 -c "import scip
 ### Build and Run paperImplementation Project
 To test scenario One with a single client app and single SDK 
 Requirements: Android Studio, Android Device.
-1. Open the paperImplementation project in Android Studio: "File" -> "Open..." -> select the paperImplementation -> Click "OK".
+1. Open the paperImplementation project in Android Studio: "File" -> "Open..." -> select the paperImplementation -> Click "OK". In this step, it takes some time to build the project with Gradle.
 2. Install the sdk_app: select "sdk_app" from the build profile drop-down menu -> Click the "green play button".
 3. Install the client_app: select "client_app" from the build profile drop-down menu -> Click the "green play button".
 4. Following steps should be on the Android device you chose to install the two apps.
@@ -71,14 +72,14 @@ Note that building an Android project in Android Studio for the first time may t
 ### Run Evaluation Scripts
 
 To generate data in Table 2
- In evaluation table data/table2: 
+ In evaluation-table-data/table2: 
 
     python3 gen_table2_fblogin.py
     python3 gen_table2_fbprofile.py
     python3 gen_table2_twitter.py
 
 To generate data in Table 3
- In each folder under evaluation table data/table3: 
+ In each folder under evaluation-table-data/table3: 
 
     python3 baseline_fblogin_gen.py
     python3 baseline_fbprofile_gen.py
