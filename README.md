@@ -18,8 +18,7 @@ solid-state drive of at least 16GB
 - Linux OS/macOS/Windows, preferably Ubuntu 22.04
 LTS, macOS 14 (Apple M1/M2 chips are compatible; compatibility with Windows is untested)
 ### Software Dependencies
-- Android Studio, preferably the latest version v2023.2.1, with Gradle version 7.2 for paperImplementation, and with minimum Gradle version 6.7.1
-and JDK version 1.8 for facebook-android-sdk-main
+- Android Studio, preferably the latest version v2023.2.1. For paperImplementation please use Gradle version 7.2, and for facebook-android-sdk-main please use minimum Gradle version 6.7.1 and JDK version 1.8
 - Android emulator/real Android devices, preferably Pixel or other devices with Android version ≥ 13, r16
 - python 3.11
 - numpy ≥ v1.24.3
@@ -50,6 +49,10 @@ For Android emulators, Android Studio is with Google Pixel 3a set as the default
 python3 -c "import numpy; print(numpy.version.version)"; python3 -c "import scipy; print(scipy.version.version)".
 
 ## Usage 
+
+### Configurations for Android Studio
+If you want to change Android Studio settings, you can click File > Settings. If you want to change Gradle version when building Android projects, please click File > Project Structure > Project menu and select Gradle version. If it's the first time you build the project, it may take a while. Once it finishes Gradle building, you can click on the "green play button" to install and run the APK on the Android emulator.
+
 ### Build and Run paperImplementation Project
 To test scenario One with a single client app and single SDK 
 Requirements: Android Studio, Android Device.
@@ -67,7 +70,6 @@ Note that building an Android project in Android Studio for the first time may t
 2. Change JDK version: Open settings in Android Studio, select Build, Execution, Deployment -> Build Tools -> Gradle, select Gradle JDK -> Download JDK -> select version 1.8 (the last one) -> click "Download" -> click "Apply" and "OK". This process may take a while.
 3. Install the sample apps: select "sample.FBLoginSample" or other samples from the build profile drop-down menu -> Click the "green play button". After building the original Facebook SDK and the sample app, on the Android emulator or the real device, you can use basic functions like login or display user profile.
 
-Note that building an Android project in Android Studio for the first time may take longer.
 
 ### Run Evaluation Scripts
 
