@@ -3,6 +3,11 @@ PESP is a practical, clean-slate design and end-to-end system that enables
 privacy-preserving social-media SDKs against the emerging
 privacy threat. 
 
+## Citing the Paper
+H. Lu, Y. Liu, X. Liao, L. Xing. “Towards Privacy-Preserving Social-Media SDKs on Android.” USENIX Security 2024.
+
+We will provide bibtex code to cite our work shortly.
+
 ## Description
 1. paperImplementation: An Android studio Project containing the client_app(developers' app in the paper) and an sdk_app(social medial SDK in the paper).
 2. facebook-android-sdk-main: An Android studio Project containing the original implementation of FB SDK and Twitther SDK from the official Facebook and Twitter code release, used as a baseline with logging enabled for evaluation purposes.
@@ -18,11 +23,12 @@ solid-state drive of at least 16GB
 - Linux OS/macOS/Windows, preferably Ubuntu 22.04
 LTS, macOS 14 (Apple M1/M2 chips are compatible; compatibility with Windows is untested)
 ### Software Dependencies
-- Android Studio, preferably the latest version v2023.2.1. For paperImplementation please use Gradle version 7.2, and for facebook-android-sdk-main please use minimum Gradle version 6.7.1 and JDK version 1.8
+- Android Studio, preferably the latest version v2023.2.1. For paperImplementation please use Gradle version 7.2, and for facebook-android-sdk-main please use Gradle version >= 6.7.1 and <7 ("MavenDeployment" is deprecated in newer version) and JDK version 1.8
 - Android emulator/real Android devices, preferably Pixel or other devices with Android version ≥ 13, r16
 - python 3.11
 - numpy ≥ v1.24.3
 - scipy ≥ v1.11.1
+- python-dateutil
 ## Environment Setup
 Android Studio installation: download the latest version from https://developer.android.com/studio and refer to the provided documentation for guidance on installation across different operating systems https://developer.android.com/studio/install. Opt for the standard installation process, and follow the on-screen instructions to
 download all required components.
