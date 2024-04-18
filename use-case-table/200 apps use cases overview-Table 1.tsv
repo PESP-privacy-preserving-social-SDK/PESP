@@ -1,0 +1,203 @@
+Social Media Provider	App Name	Downloads	Use case Description	Data FlowType I (yes/no)	Data FlowType II (yes/no)	
+Google Play Game Services	stumble-guys	100M+	login with google play account; 	no	yes	
+Google Play Game Services	fifa-soccer	100M+	login with google play account; 	no	yes	
+Google Play Game Services	ludo-king	500M+	login with google account; display user's google name; display user's profile image;	yes	yes	
+Google Play Game Services	my-talking-tom-2	500M+	login with google play account; 	no	yes	
+Google Play Game Services	pk-xd-explore-universes	100M+	login with google play account; 	no	yes	
+Google Play Game Services	google-play-games	5B+	login with google account; display user's google email;	yes	yes	
+Google Play Game Services	Subway Surfers	1B+	login with google play account; 	no	no	
+Google Play Game Services	My Talking Tom	1B+	login with google play account; 	no	yes	
+Google Play Game Services	Mequeres - Dating. Flirt. Chat	5M+	login with google account; display user's google name; display user's profile image;	yes	yes	
+Google Play Game Services	"iDates - Chat, Flirt, Singles"	5M+	login with google account; display user's google name; display user's email; 	yes	yes	
+Google Play Game Services	JAUMO: Meet people.Chat.Flirt	50M+	login with google account;	no	yes	
+Google Play Game Services	"iFlirts – Flirt, Dating & Chat"	1M+	login with google account; display user's google name; display user's email; 	yes	yes	
+Google Play Game Services	NewProfilePic: Profile Picture	1M+	login with google account; display user's google name; display user's email; 	yes	yes	
+Google Play Game Services	SHEIN-Fashion Shopping Online	100M+	login with google account; 	no	yes	
+Google Play Game Services	McDonald's	10M+	login with google account; display user's google name; display user's email; 	yes	yes	
+Google Play Game Services	Relax - Meet your future	10M+	login with google account; display user's google name; display user's google email; display user's profile image;	yes	yes	
+Google Play Game Services	"Fotka - Flirt, stream, dating"	1M+	login with google account; display user's google name; 	yes	yes	
+Google Play Game Services	Camsurf: Chat Random & Flirt	5M+	login with google account; display user's google email;	yes	yes	
+Google Play Game Services	myDates - Flirt & Chat App	1M+	login with google account; display user's google name; display user's google email; 	yes	yes	
+Google Play Game Services	iCatched - Flirt & Dating App	500K+	login with google account; display user's google name; display user's google email; 	yes	yes	
+Twitter Kit	SnackVideo	100M+	share to twitter;	no	no	
+Twitter Kit	starmaker-sing-and-play	100M+	share to twitter;	no	no	
+Twitter Kit	boomplay-music-downloader	100M+	login with twitter account; 	yes	yes	
+Twitter Kit	wynk-music-songs-hellotunes	100M+	share to twitter;	no	no	
+Twitter Kit	TikTok	1B+	login with twitter account; display user's twitter name; 	yes	yes	
+Twitter Kit	AliExpress	500M+	login with twitter account; display user's twitter name; display user's google email;	yes	yes	
+Twitter Kit	2gis-offline-map-navigation	100M+	login with twitter account; display user's twitter name; display user's google email;	yes	yes	
+Twitter Kit	yandex	100M+	login with twitter account; display user's twitter name; 	yes	yes	
+Twitter Kit	streamkar-live-video-chat	50M+	login wtih twitter account;	no	yes	
+Twitter Kit	Bigo Live - Live Streaming App	500M+	login with twitter account; display user's twitter name; embed twitter;	yes	yes	
+Twitter Kit	티빙(tving) 	10M+	login with twitter account; display user's twitter name; 	yes	yes	
+Twitter Kit	iFunny - cool memes & videos	10M+	login with twitter account; display user's twitter name; display user's twitter email;	yes	yes	
+Twitter Kit	Tiki - Short Video App	50M+	login with twitter account; share to twitter;	no	yes	
+Twitter Kit	instagram	1B+	login with twitter account; share to twitter;	no	no	
+Twitter Kit	zepeto	100M+	login with twitter account; 	no	yes	
+Twitter Kit	kwai	100M+	share to twitter;	no	no	
+Twitter Kit	"WeSing - Karaoke, Party & Live"	100M+	login with twitter account; 	no	no	
+Twitter Kit	groupme	10M+	connect to twitter;	no	yes	
+Twitter Kit	audiomack	50M+	login with twitter account; display user's twitter name;	yes	yes	
+Twitter Kit	triller-social-video-editor	10M+	share to twitter;	no	no	
+Vkontakte SDK	aliexpress	10M+	login with VK account; display user's VK name;	yes	yes	
+Vkontakte SDK	2gis-offline-map-navigation	100M+	login with VK account; display user's VK name; display user's profile image;	yes	yes	
+Vkontakte SDK	Spin the Bottle: Random Chat	5M+	login with VK account; display user's VK name; display user's profile image; 	yes	yes	
+Vkontakte SDK	Booking.com: Hotels and more	500M+	share to VK;	no	no	
+Vkontakte SDK	yandex	100M+	login with VK account;	no	yes	
+Vkontakte SDK	bigo-live-live-streaming-app	100M+	login with VK account;	no	yes	
+Vkontakte SDK	"Авито: квартиры, авто, работа"	100M+	login with VK account;	no	no	
+Vkontakte SDK	OK: Social Network 	100M+	login with VK account;	no	yes	
+Vkontakte SDK	Маруся — голосовой помощник	10M+	login with VK account; display user's profile image; display user's phone number;	yes	yes	
+Vkontakte SDK	Yandex Navigator 	100M+	login with VK account; display user's VK name; display user's profile image; 	yes	yes	
+Vkontakte SDK	"
+YAPPY: видеоплатформа"	5M+	login with VK account;	no	yes	
+Vkontakte SDK	Likee 	500M+	login with VK account;	no	yes	
+Vkontakte SDK	Яндекс Маркет: здесь покупают	10M+	login with VK account; display user's VK name; display user's profile image; 	yes	yes	
+Vkontakte SDK	yandex. weather	10M+	login with VK account; display user's VK name; display user's profile image; 	yes	yes	
+Vkontakte SDK	yandex brower with protect	100M+	login with VK account; display user's VK name; display user's profile image; 	yes	yes	
+Vkontakte SDK	Вкусно — и точка	10M+	login with VK account; 	no	no	
+Vkontakte SDK	СберМаркет: Доставка продуктов	10M+	login with VK account; display user's VK name;	yes	yes	
+Vkontakte SDK	Delivery Club: Продукты на дом	10M+	login with VK account;	no	no	
+Vkontakte SDK	Самокат・доставка продуктов・еды	5M+	login with VK account; display user's VK name; display user's phone number;	yes	yes	
+Vkontakte SDK	"YouDo: работа, услуги, фриланс"	1M+	login with VK account; display user's name; display user's profile image;	yes	yes	
+Kakao	NS홈쇼핑	10M+	login with kakao account; display user's kakao name; display user's kakao email;	yes	yes	
+Kakao	CJ온스타일	10M+	login with kakao account; 	no	yes	
+Kakao	zepeto-3d-avatar-chat-meet	100M+	login with kakao talk account;	no	yes	
+Kakao	"여기어때 - 호텔, 모텔, 펜션, 항공권 최저가 예약"	10M+	login with kakao account; 	no	yes	
+Kakao	KakaoTalk : Messenger	100M+	login with kakao account; display user's kakao name; display user's kakao email;	yes	yes	
+Kakao	Booking.com: Hotels and more	500M+	share to KakaoStory/KakaoTalk/KakaoTalk my chatroom;	no	no	
+Kakao	다음 - Daum 	10M+	login with kakao account; display user's kakao name;	yes	yes	
+Kakao	업비트 - 가장 신뢰받는 디지털 자산(비트코인) 거래소 	5M+	login with kakao account; display user's kakao name; display user's kakao email;	yes	yes	
+Kakao	"티빙(TVING) - 오리지널, 방송, 영화, 실시간"	10M+	login with kakao account; display kakao email;	no	yes	
+Kakao	오늘의집 - 라이프스타일 슈퍼앱 	10M+	login with kakao account; display user's kakao name; display kakao email;	yes	yes	
+Kakao	에이블리 - 3천만의 AI 쇼핑메이트	5M+	login with kakao account; display user's kakao name; 	yes	yes	
+Kakao	WePlay - 파티게임 	10K+	login with kakao account; display user's kakao name; 	yes	yes	
+Kakao	H.Point 	1M+	login with kakao account;	no	yes	
+Kakao	교촌치킨  	1M+	login with kakao account;	no	yes	
+Kakao	야놀자 - 누구나 마음 편히 놀 수 있게	10M+	login with kakao account; 	no	yes	
+Kakao	SSG.COM	10M+	login with kakao account; 	no	yes	
+Kakao	공구마켓-공동구매 쇼핑어플	5M+	login with kakao account; display user's name; display kakao email; display kakao profile image;	yes	yes	
+Kakao	"
+KeepWell"	10K+	login with kakao account;	no	yes	
+Kakao	온라인 패션 스토어 무신사	5M+	login with kakao account;	no	yes	
+Kakao	그립 Grip - 전국민 라이브 大장터	1M+	login with kakao account; 	no	yes	
+"Snap login, bitmoji kit"	viber-safe-chats-and-calls	1B+	use snapchat camara;	no	no	
+"Snap login, bitmoji kit"	uno-%E2%84%A2	100M+	login with snapchat account; display user's snapchat name;	yes	yes	
+"Snap login, bitmoji kit"	triller-social-video-editor	10M+	login with snapchat account; display user's snapchat name; display user's  bitmoji avatar;	yes	yes	
+"Snap login, bitmoji kit"	dil-mil-south-asian-dating	1M+	connect to snapchat; 	no	no	
+"Snap login, bitmoji kit"	lobby	1M+	login with snapchat account; display user's snapchat name;	yes	yes	
+"Snap login, bitmoji kit"	TikTok	1B+	share to snapchat;	no	no	
+"Snap login, bitmoji kit"	Picsart Photo & Video Editor	500M+	login with snapchat account; display user's snapchat name; display user's bitmoji avatar;	yes	yes	
+"Snap login, bitmoji kit"	"Hago- Party, Chat & Games"	100M+	login with snapchat account; display user's snapchat name; display user's bitmoji avatar;	yes	yes	
+"Snap login, bitmoji kit"	moj	100M+	share to snapchat;	no	no	
+"Snap login, bitmoji kit"	prequel-aesthetic-photo-editor	10M+	share to snapchat;	no	no	
+"Snap login, bitmoji kit"	zenly-your-world	50M+	invite friends from snapchat;	no	no	
+"Snap login, bitmoji kit"	bigo-live-live-streaming-app	100M+	use snap camera;	no	no	
+"Snap login, bitmoji kit"	josh-short-videos-app	100M+	login with snapchat account; display user's bitmoji avatar;	yes	yes	
+"Snap login, bitmoji kit"	bud-create-play-hangout	10M+	login with snapchat account; display user's snapchat name; display user's bitmoji avatar;	yes	yes	
+"Snap login, bitmoji kit"	kahoot-play-create-quizzes	50M+	login with snapchat account; display user's bitmoji avatar;	yes	yes	
+"Snap login, bitmoji kit"	celebs-celebrity-look-alike	1M+	dead code;	no	no	
+"Snap login, bitmoji kit"	highrise-virtual-metaverse	5M+	login with snapchat account;	yes	yes	
+"Snap login, bitmoji kit"	saramart-shopping	10M+	dead code;	no	no	
+"Snap login, bitmoji kit"	"iHeart: Music, Radio, Podcasts"	50M+	share to snapchat;	no	no	
+"Snap login, bitmoji kit"	iFunny - cool memes & videos	10M+	share to snapchat;	no	no	
+Tiktok	capcut-video-editor	100M+	login with tiktok account; display user's profile image; display user's name;	yes	yes	
+Tiktok	video-editor-app-vivacut	50M+ 	login with tiktok account; display user's profile image; display user's tiktok name;	no	no	
+Tiktok	bud-create-play-hangout	10M+ 	login with tiktok account; display user's profile image; display user's tiktok name;	no	yes	
+Tiktok	Hago	100M+ (huawei app gallery)	login with tiktok account; display user's profile image; display user's tiktok name;	no	yes	
+Tiktok	今日头条	20B+ (huawei app gallery)	login with tiktok account; display user's profile image; display user's tiktok name;	yes	yes	
+Tiktok	番茄免费小说	3B+ (huawei app gallery)	login with tiktok account; display user's profile image; display user's tiktok name;	yes	yes	
+Tiktok	西瓜视频	10B+ (huawei app gallery)	login with tiktok account; display user's profile image; display user's tiktok name;	no	yes	
+Tiktok	剪映	4B+ (huawei app gallery)	login with tiktok account; display user's profile image; display user's tiktok name;	no	yes	
+Tiktok	starmaker	100M+ (huawei app gallery)	login with tiktok account; display user's profile image; display user's tiktok name;	yes	yes	
+Tiktok	懂车帝	1B+ (huawei app gallery)	login with tiktok account; display user's profile image; display user's tiktok name;	yes	yes	
+Tiktok	多闪	442M+ (huawei app gallery)	login with tiktok account; display user's profile image; display user's tiktok name;	yes	yes	
+Tiktok	faceu激萌	1B+ (huawei app gallery)	login with tiktok account; display user's profile image; display user's tiktok name;	no	yes	
+Tiktok	轻颜相机	1B+ (huawei app gallery)	login with tiktok account; display user's profile image; display user's tiktok name;	no	yes	
+Tiktok	图虫	80M+ (huawei app gallery)	login with tiktok account; display user's profile image; display user's tiktok name;	no	yes	
+Tiktok	皮皮虾	485M+ (huawei app gallery)	login with tiktok account; display user's profile image; display user's tiktok name;	no	yes	
+Tiktok	住小帮	270M+ (huawei app gallery)	login with tiktok account; display user's profile image; display user's tiktok name;	yes	yes	
+Tiktok	幸福里	500M+ (huawei app gallery)	login with tiktok account; display user's profile image; display user's tiktok name;	no	no	
+Tiktok	悟空浏览器	140M+ (huawei app gallery)	login with tiktok account; display user's profile image; display user's tiktok name;	yes	yes	
+Tiktok	抖音火山版	5B+ (huawei app gallery)	login with tiktok account; display user's profile image; display user's tiktok name;	no	yes	
+Tiktok	小荷健康	140M+ (huawei app gallery)	login with tiktok account; display user's profile image; display user's tiktok name;	no	yes	
+Wechat	mi-home	10M+ 	login with tiktok account; display user's profile image; display user's tiktok name;	yes	yes	
+Wechat	weee-grocery-delivery	500K+ 	login with wechat account; display user's wechat name; display user's profile image; share to wechat/moments;	yes	yes	
+Wechat	Booking.com: Hotels and more	500M+ 	login with wechat account; display user's wechat email;	yes	yes	
+Wechat	airbnb	330M+  (huawei app gallery)	login with wechat account; display user's wechat name; display user's profile image; display user's wechat email;	yes	yes	
+Wechat	小红书	12B+ (huawei app gallery)	login with wechat account; display user's wechat name; 	yes	yes	
+Wechat	马蜂窝	890M+ (huawei app gallery)	login with wechat account; display user's wechat name;  display user's profile image;	yes	yes	
+Wechat	NetEaseMusic	6B+ (huawei app gallery)	login with wechat account; display user's wechat name; display user's profile image;	yes	yes	
+Wechat	qq音乐	7B+ (huawei app gallery)	login with wechat account; display user's wechat name; display user's profile image; display user's wechat friends;	yes	yes	
+Wechat	Ctrip	9B+ (huawei app gallery)	login with wechat account; choose to use wechat profile image or not;	yes	yes	
+Wechat	知乎	7B+ (huawei app gallery)	login with wechat account; display user's wechat email; display user's phone number; display user's wechat name;	yes	yes	
+Wechat	豆瓣	390M+ (huawei app gallery)	band wechat account;	no	yes	
+Wechat	安居客	1B+ (huawei app gallery)	login with wechat account; display user's wechat name; 	yes	yes	
+Wechat	ximalaya	8B+ (huawei app gallery)	login with wechat account; display user's wechat name; display user's profile image; 	yes	yes	
+Wechat	58同城	7B+ (huawei app gallery)	login with wechat account; display user's profile image;	yes	yes	
+Wechat	汽车之家	2M+ (huawei app gallery)	login with wechat account; choose to use wechat profile image or not;	yes	yes	
+Wechat	起点读书	500M+ (huawei app gallery)	login with wechat account;	no	yes	
+Wechat	keep	2B+ (huawei app gallery)	login with wechat account; display user's profile image; display user's wechat name;	yes	yes	
+Wechat	夸克	1B+ (huawei app gallery)	login with wechat account; display user's profile image; display user's wechat name;	yes	yes	
+Wechat	amap	9B+ (huawei app gallery)	login with wechat account; display user's profile image; display user's wechat name;	yes	yes	
+Wechat	贝壳找房	915M+ (huawei app gallery)	login with wechat account;	no	yes	
+Alipay	booking-com-hotels-and-more	500M+ 	share with alipay friends;	no	no	
+Alipay	aliexpress	10M+ 	share to alipay;	no	no	
+Alipay	B612 Camera&Photo/Video Editor	500M+	share with alipay friends;	no	no	
+Alipay	weee-grocery-delivery	500K+ 	alipay payment;	no	no	
+Alipay	闲鱼	5B+ (huawei app gallery)	login with alipay account; display user's alipay name; display user's profile image;	yes	yes	
+Alipay	夸克	1B+ (huawei app gallery)	login with alipay account; display user's phone number; display user's alipay name; display user's profile image;	yes	yes	
+Alipay	高德	9B+ (huawei app gallery)	login with alipay account; display user's profile image;	yes	yes	
+Alipay	Ctrip携程	9B+ (huawei app gallery)	login with alipay account;	no	yes	
+Alipay	菜鸟	1B+ (huawei app gallery)	band alipay account; 	no	no	
+Alipay	飞猪旅行	1B+ (huawei app gallery)	login with alipay account; display user's alipay name; display user's profile image; display phone number; 	yes	yes	
+Alipay	UC浏览器	12B+ (huawei app gallery)	login with alipay account; display user's phone number;  display user's profile image;	yes	yes	
+Alipay	饿了么	3B+ (huawei app gallery)	login with alipay account; display user's image name; display user's phone number;	yes	yes	
+Alipay	哈啰出行	6M+ (huawei app gallery)	login with alipay account; display user's phone number;	yes	yes	
+Alipay	钉钉	8B+ (huawei app gallery)	login with alipay account; 	no	no	
+Alipay	淘特	4B+ (huawei app gallery)	login with alipay account; display user's taobao name; display user's taobao profile image;	yes	yes	
+Alipay	淘票票	240M+ (huawei app gallery)	login with alipay account; display user's taobao name; display user's taobao profile image; display user's gender; display user's birthday; display user's phone number;	yes	yes	
+Alipay	盒马	970M+ (huawei app gallery)	login with alipay account; display user's taobao name; display user's taobao profile image; display user's gender;	yes	yes	
+Alipay	识货	570M+ (huawei app gallery)	taobao account authorization;	no	yes	
+Alipay	苏宁易购	2B+ (huawei app gallery)	login with alipay account; display user's alipay name;	yes	yes	
+Alipay	考拉海购	370M+ (huawei app gallery)	login with alipay account; display user's alipay name; display user's profile images; display user's phone number;	yes	yes	
+Weibo	马蜂窝	890M+ (huawei app gallery)	login with weibo account; display user's weibo name; display user's profile image;	yes	yes	
+Weibo	滴答	57M+ (huawei app gallery)	login with weibo account; display user's weibo name; display user's profile image;	yes	yes	
+Weibo	ximalaya	8B+ (huawei app gallery)	login with weibo account; 	no	yes	
+Weibo	夸克	1B+ (huawei app gallery)	login with weibo account; display user's weibo name; display user's profile image;	yes	yes	
+Weibo	keep	2B+ (huawei app gallery)	login with weibo account; display user's profile image;	yes	yes	
+Weibo	汽车之家	2B+ (huawei app gallery)	login with weibo account; 	no	yes	
+Weibo	高德地图	9B+ (huawei app gallery)	login with weibo account; display user's weibo name; display user's profile image;	yes	yes	
+Weibo	携程	9B+ (huawei app gallery)	login with weibo account; 	no	yes	
+Weibo	下厨房	1B+ (huawei app gallery)	login with weibo account; display user's weibo name; display user's profile image;	yes	yes	
+Weibo	UC浏览器	12B+ (huawei app gallery)	login with weibo account; display user's weibo name; display user's profile image;	yes	yes	
+Weibo	墨迹天气	2B+ (huawei app gallery)	login with weibo account; display user's weibo name; display user's profile image;	yes	yes	
+Weibo	网易有道词典	1B+ (huawei app gallery)	login with weibo account; display user's weibo name; display user's profile image;	yes	yes	
+Weibo	快看	930M+ (huawei app gallery)	login with weibo account; display user's weibo name; display user's profile image;	yes	yes	
+Weibo	网易新闻	2B+ (huawei app gallery)	login with weibo account; 	no	yes	
+Weibo	快手	25M+ (huawei app gallery)	login with weibo account; display user's weibo name; display user's profile image;	yes	yes	
+Weibo	咪咕视频	835M+ (huawei app gallery)	login with weibo account; 	no	yes	
+Weibo	豆瓣	400M+ (huawei app gallery)	login with weibo account; display user's weibo name;	yes	yes	
+Weibo	小红书	12B+ (huawei app gallery)	login with weibo account; 	no	yes	
+Weibo	b612咔叽	1B+ (huawei app gallery)	login with weibo account;	no	yes	
+Weibo	抖音	38B+ (huawei app gallery)	login with weibo account;	no	yes	
+Facebook	TikTok	1B+	login with facebook account; display a user name generated based on user's facebook email;	yes	yes	
+Facebook	eBay: The shopping marketplace	100M+	login with facebook account; display user's facebook firstname; display user's facebook email	no	no	
+Facebook	com.callapp.contacts	100M+	login with facebook account; display user's facebook firstname and lastname;	no	no	
+Facebook	SHEIN-Fashion Shopping Online	100M+	login with facebook account; display a user name generated based on user's facebook display Name;	yes	yes	
+Facebook	Taco Bell – Order Fast Food	10M+	login with facebook account; display a user name generated based on user's facebook email;	yes	yes	
+Facebook	Alibaba.com - B2B marketplace	100M+	login with facebook account; display user's facebook email; display user's facebook firstname and lastname;	yes	yes	
+Facebook	Tubi - Movies & TV Shows	100M+	login with facebook account; display user's facebook firstname;	yes	yes	
+Facebook	"Canva: Design, Photo & Video"	100M+	login with facebook account; display user's facebook firstname and last name; display user's facebook profile image; display user's facebook email; Display list of facebook group users joined; Share user created media to facebook group	no	no	
+Facebook	Upside-Cash back on gas & food	5M+	login with facebook account; display user's facebook email; display user's facebook firstname and lastname;	yes	yes	
+Facebook	Spotify: Music and Podcasts	1B+	login with facebook account; display user's facebook profile image;	yes	yes	
+Facebook	OfferUp: Buy. Sell. Letgo.	50M+	login with facebook account; display user's facebook firstname; display user's facebook profile image; display user's facebook email	no	no	
+Facebook	TextNow: Call + Text Unlimited	50M+	login with facebook account; display user's facebook email; display user's facebook firstname and lastname;	yes	yes	
+Facebook	King James Bible - Verse+Audio	50M+	login with facebook account; display user's facebook profile image; display user's facebook firstname and lastname;	yes	yes	
+Facebook	Fetch Rewards	10M+	login with facebook account; display user's facebook firstname and lastname; display user's facebook email	no	no	
+Facebook	Grubhub: Local Food Delivery	10M+	login with facebook account; display user's facebook firstname and lastname; display user's facebook email	no	no	
+Facebook	DoorDash - Food Delivery	10M+	login with facebook account; display user's facebook firstname and lastname; display user's facebook email;	yes	yes	
+Facebook	Pinterest	500M+	login with facebook account; display user's facebook firstname and lastname; display user's facebook email;	yes	yes	
+Facebook	"Expedia: Hotels, Flights & Car"	10M+	login with facebook account; display user's facebook firstname and lastname; display user's facebook email;	yes	yes	
+Facebook	Etsy: Buy & Sell Unique Items	100M+	login with facebook account; display user's facebook firstname and lastname	no	no	
+Facebook	Adobe Express: Graphic Design	10M+	login with facebook account; display user's facebook firstname and lastname; display user's facebook email;	yes	yes	
