@@ -81,11 +81,7 @@ Note that building an Android project in Android Studio for the first time may t
 ### Run Evaluation Scripts
 
 To generate data in Table 2
- In evaluation-table-data/table2: 
-
-    python3 gen_table2_fblogin.py
-    python3 gen_table2_fbprofile.py
-    python3 gen_table2_twitter.py
+ In evaluation-table-data/table2: we provide detailed instructions to reproduce Table 2 in evaluation-table-data/table2/table2.md.
 
 To generate data in Table 3
  In each folder under evaluation-table-data/table3: 
