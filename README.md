@@ -11,7 +11,8 @@ We will provide bibtex code to cite our work shortly.
 ## Description
 1. paperImplementation: An Android studio Project containing the client_app(developers' app in the paper) and an sdk_app(social medial SDK in the paper).
 2. facebook-android-sdk-main: An Android studio Project containing the original implementation of FB SDK and Twitther SDK from the official Facebook and Twitter code release, used as a baseline with logging enabled for evaluation purposes.
-3. evaluation table data: Original logging and metric computation code in Python used to fill the tables: Table 2 Performance overhead (single social SDK per app) and Table 3 Performance overhead (multiple social SDKs per app).
+3. evaluation-table-data: Original logging and metric computation code in Python used to fill the tables, including Table 2 Performance overhead (single social SDK per app) and Table 3 Performance overhead (multiple social SDKs per app).
+4. use-case-table: We provide the detailed table mentioned in Table 1 in the paper. The results are analyzed by hand by two authors.
 
 ## Prerequisites 
 ### Hardware
@@ -23,7 +24,7 @@ solid-state drive of at least 16GB
 - Linux OS/macOS/Windows, preferably Ubuntu 22.04
 LTS, macOS 14 (Apple M1/M2 chips are compatible; compatibility with Windows is untested)
 ### Software Dependencies
-- Android Studio, preferably the latest version v2023.2.1. For paperImplementation please use Gradle version 7.2, and for facebook-android-sdk-main please use Gradle version >= 6.7.1 and <7 ("MavenDeployment" is deprecated in newer version) and JDK version 1.8
+- Android Studio, preferably the latest version v2023.2.1. For paperImplementation please use Gradle version 7.2, and for facebook-android-sdk-main please use Gradle version >= 6.7.1 and <7 ("MavenDeployment" is deprecated in the newer version) and JDK version 1.8
 - Android emulator/real Android devices, preferably Pixel or other devices with Android version ≥ 13, r16
 - python 3.11
 - numpy ≥ v1.24.3
