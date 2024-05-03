@@ -64,11 +64,12 @@ If you want to change Android Studio settings, you can click File > Settings. If
 To test scenario One with a single client app and single SDK 
 Requirements: Android Studio, Android Device.
 1. Open the paperImplementation project in Android Studio: "File" -> "Open..." -> select the paperImplementation -> Click "OK". In this step, it takes some time to build the project with Gradle.
-2. Install the sdk_app: select "sdk_app" from the build profile drop-down menu -> Click the "green play button".
-3. Install the client_app: select "client_app" from the build profile drop-down menu -> Click the "green play button".
+2. Build, install and run the sdk_app: select "sdk_app" from the build profile drop-down menu -> Click the "green play button".
+3. Build, install and run the client_app: select "client_app" from the build profile drop-down menu -> Click the "green play button".
 4. Following steps should be on the Android device you chose to install the two apps.
 5. Open the client_app by finding an app named: "Demo" with the default app icon.
-6. Click "FB PROFILE": Will get to Figure 3, which is scenario 1 in the paper. 
+6. Click "FB PROFILE": Will get to Figure 3, which is 
+scenario 1 in the paper. 
 
 Note that building an Android project in Android Studio for the first time may take longer.
 
