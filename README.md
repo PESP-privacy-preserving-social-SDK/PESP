@@ -68,11 +68,9 @@ Requirements: Android Studio, Android Device.
 3. Build, install and run the client_app: select "client_app" from the build profile drop-down menu -> Click the "green play button".
 4. Following steps should be on the Android device you chose to install the two apps.
 5. Open the client_app by finding an app named: "Demo" with the default app icon.
-6. Click "FB PROFILE": Will get to Figure 3, which is 
-scenario 1 in the paper. 
+6. Click "FB PROFILE": Will get to Figure 3, which is scenario 1 in the paper. 
 
 Note that building an Android project in Android Studio for the first time may take longer.
-
 ### Build and Run facebook-android-sdk-main Project
 1. Open the facebook-android-sdk-main project in Android Studio: "File" -> "Open..." - select the facebook-android-sdk-main -> Click "OK".
 2. Change JDK version: Open settings in Android Studio, select Build, Execution, Deployment -> Build Tools -> Gradle, select Gradle JDK -> Download JDK -> select version 1.8 (the last one) -> click "Download" -> click "Apply" and "OK". This process may take a while.
